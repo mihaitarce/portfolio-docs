@@ -12,4 +12,4 @@ Create an account or use your institution login to log in for the [first time](g
 
 ## Cases
 
-See how to [create a case](cases/create-a-case.md) or [upload a document](cases/upload-a-document.md).
+See how to [create a case](cases/create-a-case.md) or [upload content](cases/upload-content.md).
