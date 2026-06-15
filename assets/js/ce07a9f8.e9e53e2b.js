@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio_docs=self.webpackChunkportfolio_docs||[]).push([["7297"],{7700(o){o.exports=JSON.parse('{"metadata":{"permalink":"/portfolio-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
