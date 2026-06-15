@@ -8,7 +8,7 @@ Some text here...
 
 :::caution
 
-In development, you can only use one locale at a time.
+A warning here
 
 :::
 
