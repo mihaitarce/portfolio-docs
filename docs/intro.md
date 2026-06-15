@@ -8,8 +8,8 @@ Let's discover **Portfolio**.
 
 ## Getting Started
 
-Create an account or use your institution login to log in for the [first time](getting-started/first-login.md).
+Create an account or use your institution login to log in for the [first time](tutorials/students/getting-started.md).
 
 ## Cases
 
-See how to [create a case](cases/create-a-case.md) or [upload content](cases/upload-content.md).
+See how to [create a case](user-manual/cases/create-a-case.md) or [upload content](user-manual/cases/upload-content.md).

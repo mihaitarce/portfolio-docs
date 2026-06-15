@@ -8,7 +8,7 @@ Upload files by...
 
 See an image here:
 
-![Locale Dropdown](./img/localeDropdown.png)
+![Locale Dropdown](img/localeDropdown.png)
 
 and a video here:
 
