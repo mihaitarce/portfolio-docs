@@ -11,7 +11,3 @@ Some text here...
 A warning here
 
 :::
-
-And an image here:
-
-![Locale Dropdown](./img/localeDropdown.png)
