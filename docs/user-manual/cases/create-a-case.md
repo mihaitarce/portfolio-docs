@@ -54,3 +54,20 @@ An image editing panel will appear once the file has been successfully uploaded.
 
 ![New Case15](img/newcase15.png)
 
+Click **Done editing** to save changes.
+![New Case16](img/newcase16.png)
+
+
+Students can add description and comments of images by just clicking the uploaded image. Click the pencil icon button on the upper righthand side of the page then you are free to enter texts, remember to click the checkmark icon button once you have finished editing.
+
+![New Case17](img/newcase17.png)
+
+![New Case18](img/newcase18.png)
+
+To hide sections that are irrelevant to the case, click **Edit visit**, then tick the **hidden** box located at the upper right side of the section. Remember to click **Done editing** after changes.
+
+![New Case19](img/newcase19.png)
+
+Students can click **Edit case** to tick the **Complete** box when all contents has been added and revised. 
+
+![New Case20](img/newcase20.gif)
