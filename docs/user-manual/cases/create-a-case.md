@@ -72,7 +72,7 @@ Students can click **Edit case** to tick the **Complete** box when all contents 
 
 ![New Case20](img/newcase20.gif)
 
-**==Representative case images==**: Once all photographs are uploaded, please select two key images to represent the case. Standard selections include the frontal clinical view and a panoramic radiograph, or 'before and after' frontal views for *finalized cases*. 
+**Representative case images**: Once all photographs are uploaded, please select two key images to represent the case. Standard selections include the frontal clinical view and a panoramic radiograph, or 'before and after' frontal views for *finalized cases*. 
 
 These images will be displayed as thumbnails to streamline case and to ensure that all required primary and secondary case images are uploaded and properly selected in their respective summary sections. 
 ![New Case21](img/newcase21.gif)
