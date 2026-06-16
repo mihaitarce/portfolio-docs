@@ -79,3 +79,24 @@ These images will be displayed as thumbnails to streamline case and to ensure th
 1. Click **Edit case** at the top right side of the case page
 2. Click **Select image** under the Case properties
 3. Selected images will be highlighted in blue. Click **Save changes** after two representative case images are selected. 
+
+## Share
+Cases can be discussed and collaborated by clicking the **Share** button. They can be added to **discussion list** by entering briefing date and Tutor's username. Students can view, comment and share cases to other students so that students can learn from other cases. 
+
+![New Case22](img/newcase22.gif)
+1. Click **My portfolio**, Select case that you would like to share
+2. Click the **Share** button on the right hand side of the page
+3. Select date and tutor's name
+4. Click **+ Add to discussion list**
+
+Successfully added cases will be shown on the home page under Briefing cases section. Not only students, teacher (tutor) can also see cases that are scheduled for today’s briefing sessions.
+
+![share1](img/share1.png)
+
+## Featured
+Students can view featured cases. Those cases represent outstanding work by other students. These may be used for reference and educational purposes to assist you in developing your own case studies.
+
+![New Case23](img/newcase23.png)
+
+1. Click **Featured** on the top left bar or **See featured cases** on home page 
+2. Select cases to view
