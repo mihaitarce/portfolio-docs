@@ -6,7 +6,8 @@ sidebar_position: 1
 
 1. Click **My portfolio**, and click **create new case**, adding title, basic information and case properties (including groups and tags).  (*To ensure data privacy, refraining from entering personally identifiable information (PII), including names and dates of birth, is strictly required*).
 
-![[new case.png]]
+ ![New Case1](img/newcase1.png)
+
 
 
 2. Click **Save changes**. (*Save your changes frequently to avoid data loss in case of an emergency or system timeout*).
