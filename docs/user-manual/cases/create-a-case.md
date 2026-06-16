@@ -8,11 +8,49 @@ sidebar_position: 1
 
  ![New Case1](img/newcase1.png)
 
+ ![New Case2](img/newcase2.png)
 
-
-2. Click **Save changes**. (*Save your changes frequently to avoid data loss in case of an emergency or system timeout*).
-3. Click **Edit case** to edit. **Edit case** can upload document (**not media**) only for files such as pdf. and docx. 
-
-
+2. Click **+ Create case** and  your cases are created. You can always edit your case details by clicking **Edit case**. **Edit case** can upload document (not media), only for files such as pdf. and docx. 
+ ![New Case3](img/newcase3.png)
+ 
+3. **Save changes** when you have finished the editing. (*Remember to save your changes frequently to avoid data loss in case of an emergency or system timeout*).
+ ![New Case4](img/newcase4.png)
 
 4. Click **+ New visit** once your case is created. (*also applicable when adding a visit to an existing case*)
+ ![New Case5](img/newcase5.png)
+
+5. Select visit date and template, Click **Create**. (*Notes for selecting template: As a general rule, the 'Oral Diagnosis and Treatment Planning' template should be used for new cases, while the 'Visit' template must be utilized for documenting procedures and follow-up appointments. Students are advised to consult their tutor first to ensure accuracy*).
+
+ ![New Case6](img/newcase6.png)
+
+6. Click **Edit visit** to edit contents and details of the case (including visit date and title) and upload files or DICOM folder. (*Important: All personally identifiable information (e.g., name, date of birth) must be strictly redacted*).
+
+![New Case7](img/newcase7.png)
+
+![New Case8](img/newcase8.png)
+
+7. Students can delete visit by clicking **Edit visit** then click **Delete visit**. 
+
+![New Case9|548](img/newcase9.png)
+
+A confirmation dialog box will appear, click **Cancel** or **Confirm**  to proceed.
+
+![New Case10](img/newcase10.png)
+
+8. Students can record audio and upload DICOM folder, 3D files and documents (refer to different sections) Under **Summary** (on the left side) show different sections. 
+
+![New Case11](img/newcase11.png)
+
+
+9. Click **Upload file(s)** to upload images and documents.
+![New Case12](img/newcase12.png)
+10. You can also click the upper right side small box inside the **upload file(s)** to upload images in three different ways. (*Supported data formats: JPEG, PDF*). Students can click **Select an existing image** to make a copy of the uploaded image and edit it.
+
+![New Case13](img/newcase13.png)
+
+![New Case14](img/newcase14.png)
+
+An image editing panel will appear once the file has been successfully uploaded. **Students can crop image or click the rectangle icon to add and move the rectangle for covering patient personal information**. Functions of the editing panel include: Orient, Crop, Adjust Brightness and Contrast, different markers for highlighting important findings and insert rectangle for covering. Students can also  add annotations by click the "Aa" icon. Remember to click **Save** all the time. 
+
+![New Case15](img/newcase15.png)
+
