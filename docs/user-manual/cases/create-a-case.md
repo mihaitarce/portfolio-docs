@@ -93,3 +93,6 @@ Successfully added cases will be shown on the home page under Briefing cases sec
 
 ![share1](img/share1.png)
 
+Teachers (only?) can also click **Collaborate**, enter and select name(s) of Collaborators and Click **Save changes**. Students can work or study together with others. Collaborators are able to add, change and delete content. **Collaborate** mostly used when referring a case for a specific procedure (e.g., surgery) or when a case requires a multidisciplinary treatment approach.
+
+![Collaborate](img/Collaborate.png)
