@@ -23,7 +23,7 @@ Your portfolio will be based on cases you create.
 ![logbookstudent|477](img/logbookstudent.png)
 
 *If you have not signed the logbook, please click the Sign button on your homepage to complete your signature.*
-![logbookstudents2](logbookstudents2.png)
+![logbookstudents2](img/logbookstudents2.png)
 
 ## Featured
 Students can view featured cases. Those cases represent outstanding work by other students. These may be used for reference and educational purposes to assist you in developing your own case studies.
