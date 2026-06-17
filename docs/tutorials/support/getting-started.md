@@ -62,7 +62,7 @@ For lock and unlocking the case:
 
 ![support18](img/support18.png)
 
-Admin can unlock the case by clicking the title of the case list (select cases), unticking the **Locked** box then click **Save**.
+Admin can unlock the case by clicking the title of the case list (select cases), unticking the **Locked** box then click **Save**. "The case 'name' was changed successfully" will be shown on the page once you successfully saved changes (or unlocked the case).
 ![support19](img/support19.gif)
 
 
@@ -88,3 +88,20 @@ For assign cases for assessment:
 
 ![support14](img/support14.png)
 
+
+Click **User** or **Change** can view user details and edit contents.
+
+![support21](img/support21.png)
+You can view all editing history of the information after selecting an user and click **HISTORY**.
+![support23](img/support23.png)
+
+You may also enter keywords in search engine or using filter (on the right hand side).
+
+![support22](img/support22.png)
+
+
+
+
+Click **VIEW SITE** at the upper right corner can back to the home page.
+
+![support20](img/support20.gif)
