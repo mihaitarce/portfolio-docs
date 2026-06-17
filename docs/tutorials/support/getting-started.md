@@ -53,5 +53,38 @@ Click **SAVE** or **Save and continue editing** to save changes.
 
 There are three actions for admin to select - Lock cases, share cases and assign the case to teachers or tutor for assessment. Select the case (check the box) and Click **Run** to continue.
 
+For lock and unlocking the case:
+1. Check the box of the related case and Select **lock selected cases** and click **Run**
+
+![support17](img/support17.png)
+
+2. "1 cases were successfully locked" will be shown on the page and you will see a green tick mark at the **LOCKED** column
+
+![support18](img/support18.png)
+
+Admin can unlock the case by clicking the title of the case list (select cases), unticking the **Locked** box then click **Save**.
+![support19](img/support19.gif)
+
+
+Admin can share cases to other user.
+1. Check the box of the related case and Select **Share selected cases** then click **Run**
+
 ![support12](img/support12.png)
+
+2. Select the users and click **Save** to share cases to other users.
+![support15](img/support15.png)
+
+"1 case was successfully added to discussion lists" will be shown once the cases was successfully shared.
+
+![support16](img/support16.png)
+
+
+
+For assign cases for assessment: 
+1. Select **Assign selected cases for assessment** then click **Run**
+![support13](img/support13.png)
+
+2. Select examiner and assignment, Click **Save** to assign cases for assessment.
+
+![support14](img/support14.png)
 
