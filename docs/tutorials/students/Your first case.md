@@ -9,4 +9,4 @@ Your portfolio will be based on cases you create.
 # Attendance and logbook
 - Logbook Sign (students are required to have their logbooks signed by teachers). 
 - Three type of symbols will be shown depends on status of completion of the logbook.
-  ![logbook1](img/logbook1.png)
+  ![logbook1](logbook1.png)
