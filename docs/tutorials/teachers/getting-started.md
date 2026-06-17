@@ -82,6 +82,13 @@ Attendance (on the top left bar or home page)
 3. Click **Next** and select students by ticking the box
 4. Click **Save**
 
+ Information of the students will be shown on the right hand side of the page, listed **Attendance taken for today (number of students)**. 
+ Teacher can also click the delete button to cancel the attendance. 
+![Attendancet3](img/Attendancet3.png)
+
+ A confirmation dialog box will appear, click **Cancel** or **Confirm**  to proceed.
+![Attendancet4](img/Attendancet4.png)
+
 - Logbook Sign (students are required to have their logbooks signed by teachers). 
  Four type of symbols will be shown depends on status of completion of the logbook. 
 
