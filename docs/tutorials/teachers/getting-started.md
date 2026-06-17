@@ -80,4 +80,17 @@ Attendance (on the top left bar or home page)
 ![Attendancet2](img/Attendancet2.png)
 
 3. Click **Next** and select students by ticking the box
-4. Click **Save*
+4. Click **Save**
+
+- Logbook Sign (students are required to have their logbooks signed by teachers). 
+ Four type of symbols will be shown depends on status of completion of the logbook. 
+
+![logbookt1](img/logbookt1.png)
+
+1. Click **Logbook** (next to the each student's name list under **Briefing cases** and **Attendance**)
+
+![logbookt2](img/logbbookt2.png)
+
+2. Select Clinic, AM/PM session, Procedure, Comments, Grade and sign (Students should input comments before the logbook signed. Contents of the logbook cannot be edited once it gets signed by the teachers/tutors) then click **Save**
+
+![logbookt3](img/logbookt3.png)
