@@ -15,6 +15,7 @@ Students can also reset camera and save, edit or cap a screenshot of the model b
 > File types that can be uploaded: (a) Charting (b) Images - under section "Clinical photographs" *Supported data formats: JPEG, PNG, BMP*. (c) Images, Radiographs - under section "Panoramic radiograph" and "Intraoral radiographs" *Supported data formats: JPEG, PNG, BMP*. (d) 3D files - under section "Intraoral scan" *Supported data formats: STL, PLY*.
 
 A **Visit updated successfully** notification will appear in the bottom-right corner once your files or media have been successfully uploaded and saved. 
+
  ![upload](img/upload.png)
 
 
