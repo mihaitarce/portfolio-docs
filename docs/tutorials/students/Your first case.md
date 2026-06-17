@@ -11,7 +11,7 @@ Your portfolio will be based on cases you create.
 - Three type of symbols will be shown depends on status of completion of the logbook.
  ![logbook1](img/logbook1.png)
 
-1. Click **Logbook** (next to your submitted case which highlighted in blue under **Briefing cases**)
+1. Click **Logbook** (next to your submitted case which highlighted in blue under **Briefing cases**. Students have attended will be shown below with details such as date, username of the tutor and the clinic. Once your attendance has been recorded, the session will appear highlighted in blue. 
   ![logbook2](img/logbook2.png)
 
 2. Select Clinic, AM/PM session, Procedure, Comments, ask teachers or tutor to fill in comments and sign (This section can also be completed on the tutor’s account, except for the comment and signature parts, which must be handled separately)
@@ -21,3 +21,10 @@ Your portfolio will be based on cases you create.
 3. Students also need to sign the logbook (can also comment) then Click **Save**.
 
 ![logbookstudent|477](img/logbookstudent.png)
+
+## Forum (wiki?)
+
+## Experiential learning/ Trip reports 
+
+## Issues and Feedback
+section (for both students and teachers) at the bottom of the website
