@@ -28,3 +28,22 @@ Four conditions (status, empty cases, author details and sort by) are provided f
 
 ![searchteacher](img/searchteacher.png)
 
+## Featured
+If you identify a case as an outstanding learning example and wish to share it with the student body, you may choose to feature it. Please ensure that all student and patient data is completely anonymized before publication.
+
+1. Click **Search** on the left top bar or **Search all cases** on the home page
+![Featuredt1.](img/Featuredt1.png)
+
+2. Select cases that you wanted to be featured and click to view
+3. Click **Feature**, which located in the upper-right corner of the summary section. Click **Unfeature** to undo the featuring
+
+![Featuredt2.](img/Featuredt2.png)
+
+![Featuredt3.](img/Featuredt3.png)
+
+4. Teachers can click **Featured** at the top bar of the page can view all featured cases.
+
+![Featuredt4.](img/Featuredt4.png)
+
+
+

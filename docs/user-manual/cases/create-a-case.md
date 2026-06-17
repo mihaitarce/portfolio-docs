@@ -93,10 +93,3 @@ Successfully added cases will be shown on the home page under Briefing cases sec
 
 ![share1](img/share1.png)
 
-## Featured
-Students can view featured cases. Those cases represent outstanding work by other students. These may be used for reference and educational purposes to assist you in developing your own case studies.
-
-![New Case23](img/newcase23.png)
-
-1. Click **Featured** on the top left bar or **See featured cases** on home page 
-2. Select cases to view
