@@ -63,3 +63,21 @@ Allow teacher create and customize their own template according the needs, addin
 ![templatedel](img/templatedel.gif)
 
 4. Click **Go Back** (remember to Click **Save Changes** first)
+
+## Briefing cases
+Cases scheduled for today will be shown and can be viewed by clicking the title.
+
+![Briefingcasest](img/Briefingcasest.png)
+
+Attendance (on the top left bar or home page)
+1. Click **Take attendance** 
+![Attendancet](img/Attendancet.png)
+
+2. Fill in Tutor name, Clinic, Date, AM/PM session, Student group (Should you be unable to find the tutor's name, it may indicate an account issue. Please leave this field empty and notify the Faculty Office)
+
+![Attendancet1](img/Attendancet1.png)
+
+![Attendancet2](img/Attendancet2.png)
+
+3. Click **Next** and select students by ticking the box
+4. Click **Save*
