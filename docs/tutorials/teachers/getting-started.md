@@ -94,3 +94,7 @@ Attendance (on the top left bar or home page)
 2. Select Clinic, AM/PM session, Procedure, Comments, Grade and sign (Students should input comments before the logbook signed. Contents of the logbook cannot be edited once it gets signed by the teachers/tutors) then click **Save**
 
 ![logbookt3](img/logbookt3.png)
+
+## Trials 
+
+## Report
