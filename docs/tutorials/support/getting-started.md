@@ -101,6 +101,9 @@ You may also enter keywords in search engine or using filter (on the right hand 
 
 
 
+There are three actions for admin to select - Send welcome email to the user, Generate report and add assignment for students
+![support24](img/support24.png)
+
 
 Click **VIEW SITE** at the upper right corner can back to the home page.
 
