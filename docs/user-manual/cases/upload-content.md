@@ -4,9 +4,15 @@ sidebar_position: 2
 
 # Upload content
 
-Students can upload different types of media such as ply. file (with 3D viewer to view after students have finish uploading), dcm. file (DICOM), jpg. file. students can add comment on each section (right hand side), comments can be edited, deleted and resolved. For 3D model (AR), students can view and take screenshot of the glb. file and edit it (Orient, Crop, Adjust Brightness and Contrast, different markers for highlighting important findings) by using image editing panel. 
+Students can upload different types of media such as ply. file (with 3D viewer to view after students have finish uploading), dcm. file (DICOM), jpg. file. students can add comment on each section (right hand side), comments can be edited, deleted and resolved. 
+
+For 3D model (AR), students can view and take screenshot of the glb. file and edit it (Orient, Crop, Adjust Brightness and Contrast, different markers for highlighting important findings) by using image editing panel. 
+
+![upload5](img/upload5.png)
 
 Click **Save** when students finish the editing and the revised screenshot will be shown below the file section, students can enter notes, description and comments for the image. 
+
+![upload7](img/upload7.gif)
 
 Histology photos can also be screenshotted and edited. Students are able to zoom in and out once the files are successfully uploaded. 
 
