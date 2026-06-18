@@ -104,6 +104,25 @@ You may also enter keywords in search engine or using filter (on the right hand 
 There are three actions for admin to select - Send welcome email to the user, Generate report and add assignment for students
 ![support24](img/support24.png)
 
+## Add user
+You can also add user by clicking the **Add User** button.
+
+Admin can create user and password (accounts) for non-HKU user. User from non-HKU will be assigned a username and password and they can change the password for privacy (?). They cannot register a new account using they own email.
+
+*Reminder: All admin or support staff, has access only to the admin section of the site. Non-clinical staff cannot see clinical cases, for patient privacy reasons.*
+
+![support25](img/support25.png)
+Fill in the details and click **SAVE**
+![support26](img/support26.png)
+
+
+Click **CHANGE PASSWORD** if you wanted to change your current password. 
+
+![support27](img/support27.png)
+
+
+Enter your old, new and confirmation password then Click **CHANGE MY PASSWORD**.
+![support28](img/support28.png)
 
 Click **VIEW SITE** at the upper right corner can back to the home page.
 
