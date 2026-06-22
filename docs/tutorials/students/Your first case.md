@@ -3,6 +3,9 @@ Your portfolio will be based on cases you create.
  ![student1](img/student1.gif)
 
 ---video--- (?)
+<video src={require('./video/video1.mp4').default} controls></video>
+
+<video src={require('./video/penguin.mp4').default} controls></video>
 
 1. You can [create a case](user-manual/cases/create-a-case.md) and enter the title and description.
 2. Create visits for your case.
