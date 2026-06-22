@@ -102,6 +102,6 @@ Attendance (on the top left bar or home page)
 
 ![logbookt3](img/logbookt3.png)
 
-## Trials 
+## Trials (Clinical trials) (to be updated)
 
 ## Report
