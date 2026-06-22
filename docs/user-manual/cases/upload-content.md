@@ -14,6 +14,9 @@ Click **Save** when students finish the editing and the revised screenshot will 
 
 ![upload7](img/upload7.gif)
 
+When new comments are added to the picture, a blue circle containing the total comment count will be displayed.
+
+![upload8](img/upload8.png)
 Histology photos can also be screenshotted and edited. Students are able to zoom in and out once the files are successfully uploaded. 
 
 User can freely to rotate, scale (zoom in/out), and thoroughly inspect the 3D model from any orientation. 
