@@ -1,6 +1,6 @@
 Your portfolio will be based on cases you create.
 
- ![student1](img/student1.gif)
+ ![student1|676](img/student1.gif)
 
 ---video--- (?)
 <video src={require('./video/video1.mp4').default} controls></video>
@@ -15,7 +15,7 @@ Your portfolio will be based on cases you create.
  ![logbook1](img/logbook1.png)
 
 1. Click **Logbook** (next to your submitted case which highlighted in blue under **Briefing cases**. Students have attended will be shown below with details such as date, username of the tutor and the clinic. Once your attendance has been recorded, the session will appear highlighted in blue. 
-  ![logbook2](img/logbook2.png)
+  ![logbook2|673](img/logbook2.png)
 
 2. Select Clinic, AM/PM session, Procedure, Comments, ask teachers or tutor to fill in comments and sign (This section can also be completed on the tutor’s account, except for the comment and signature parts, which must be handled separately)
 
