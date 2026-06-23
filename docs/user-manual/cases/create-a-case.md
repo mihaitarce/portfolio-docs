@@ -16,15 +16,6 @@ sidebar_position: 1
 3. **Save changes** when you have finished the editing. (*Remember to save your changes frequently to avoid data loss in case of an emergency or system timeout*).
  ![New Case4](img/newcase4.png)
 
-
-**Representative case images**: Once all photographs are uploaded, please select two key images to represent the case. Standard selections include the frontal clinical view and a panoramic radiograph, or 'before and after' frontal views for *finalized cases*. 
-
-These images will be displayed as thumbnails to streamline case and to ensure that all required primary and secondary case images are uploaded and properly selected in their respective summary sections. 
-![New Case21](img/newcase21.gif)
-1. Click **Edit case** at the top right side of the case page
-2. Click **Select image** under the Case properties
-3. Selected images will be highlighted in blue. Click **Save changes** after two representative case images are selected. 
-
 ## Share
 Cases can be discussed and collaborated by clicking the **Share** button. They can be added to **discussion list** by entering briefing date and Tutor's username. Students can view, comment and share cases to other students so that students can learn from other cases. 
 
