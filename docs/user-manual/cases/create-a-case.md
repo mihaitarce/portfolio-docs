@@ -16,17 +16,6 @@ sidebar_position: 1
 3. **Save changes** when you have finished the editing. (*Remember to save your changes frequently to avoid data loss in case of an emergency or system timeout*).
  ![New Case4](img/newcase4.png)
 
-4. Click **+ New visit** once your case is created. (*also applicable when adding a visit to an existing case*)
- ![New Case5](img/newcase5.png)
-
-5. Select visit date and template, Click **Create**. (*Notes for selecting template: As a general rule, the 'Oral Diagnosis and Treatment Planning' template should be used for new cases, while the 'Visit' template must be utilized for documenting procedures and follow-up appointments. Students are advised to consult their tutor first to ensure accuracy*).
-
- ![New Case6](img/newcase6.png)
-
-
-Students can click **Edit case** to tick the **Complete** box when all contents has been added and revised. 
-
-![New Case20](img/newcase20.gif)
 
 **Representative case images**: Once all photographs are uploaded, please select two key images to represent the case. Standard selections include the frontal clinical view and a panoramic radiograph, or 'before and after' frontal views for *finalized cases*. 
 
