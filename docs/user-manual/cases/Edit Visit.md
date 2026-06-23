@@ -12,3 +12,8 @@
 A confirmation dialog box will appear, click **Cancel** or **Confirm**  to proceed.
 
 ![New Case10](img/newcase10.png)
+
+
+To hide sections that are irrelevant to the case, click **Edit visit**, then tick the **hidden** box located at the upper right side of the section. Remember to click **Done editing** after changes.
+
+![New Case19](img/newcase19.png)

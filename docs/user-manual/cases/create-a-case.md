@@ -23,50 +23,6 @@ sidebar_position: 1
 
  ![New Case6](img/newcase6.png)
 
-6. Click **Edit visit** to edit contents and details of the case (including visit date and title) and upload files or DICOM folder. (*Important: All personally identifiable information (e.g., name, date of birth) must be strictly redacted*).
-
-![New Case7](img/newcase7.png)
-
-![New Case8](img/newcase8.png)
-
-7. Students can delete visit by clicking **Edit visit** then click **Delete visit**. 
-
-![New Case9|548](img/newcase9.png)
-
-A confirmation dialog box will appear, click **Cancel** or **Confirm**  to proceed.
-
-![New Case10](img/newcase10.png)
-
-8. Students can record audio and upload DICOM folder, 3D files and documents (refer to different sections) Under **Summary** (on the left side) show different sections. 
-
-![New Case11](img/newcase11.png)
-
-
-9. Click **Upload file(s)** to upload images and documents.
-![New Case12](img/newcase12.png)
-10. You can also click the upper right side small box inside the **upload file(s)** to upload images in three different ways. (*Supported data formats: JPEG, PDF*). Students can click **Select an existing image** to make a copy of the uploaded image and edit it.
-
-![New Case13](img/newcase13.png)
-
-![New Case14](img/newcase14.png)
-
-An image editing panel will appear once the file has been successfully uploaded. **Students can crop image or click the rectangle icon to add and move the rectangle for covering patient personal information**. Functions of the editing panel include: Orient, Crop, Adjust Brightness and Contrast, different markers for highlighting important findings and insert rectangle for covering. Students can also  add annotations by click the "Aa" icon. Remember to click **Save** all the time. 
-
-![New Case15](img/newcase15.png)
-
-Click **Done editing** to save changes.
-![New Case16](img/newcase16.png)
-
-
-Students can add description and comments of images by just clicking the uploaded image. Click the pencil icon button on the upper righthand side of the page then you are free to enter texts, remember to click the checkmark icon button once you have finished editing.
-
-![New Case17](img/newcase17.png)
-
-![New Case18](img/newcase18.png)
-
-To hide sections that are irrelevant to the case, click **Edit visit**, then tick the **hidden** box located at the upper right side of the section. Remember to click **Done editing** after changes.
-
-![New Case19](img/newcase19.png)
 
 Students can click **Edit case** to tick the **Complete** box when all contents has been added and revised. 
 
