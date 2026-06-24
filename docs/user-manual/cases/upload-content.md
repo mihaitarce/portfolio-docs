@@ -20,18 +20,22 @@ Click **Upload file(s)** to upload images and documents.
 
 An image editing panel will appear once the file has been successfully uploaded. **Students can crop image or click the rectangle icon to add and move the rectangle for covering patient personal information**. Functions of the editing panel include: Orient, Crop, Adjust Brightness and Contrast, different markers for highlighting important findings and insert rectangle for covering. Students can also  add annotations by click the "Aa" icon. Remember to click **Save** all the time. 
 
-![New Case15](img/newcase15.png)
+![upload001](img/upload001.png)
+
 
 Click **Done editing** to save changes.
-![New Case16](img/newcase16.png)
+![upload002](img/upload002.png)
 
 
 ## Add description and comment
-Students can add description and comments of images by just clicking the uploaded image. Click the pencil icon button on the upper righthand side of the page then you are free to enter texts, remember to click the checkmark icon button once you have finished editing.
+Students can add description and comments of images by just clicking the uploaded image. Click the pencil icon button on the upper righthand side of the page then you are free to enter texts.
 
-![New Case17](img/newcase17.png)
+![adddes](img/adddes.png)
 
-![New Case18](img/newcase18.png)
+Remember to click the checkmark icon button once you have finished editing.
+
+![adddes1](img/adddes1.png)
+
 
 When new comments are added to the picture, a blue circle containing the total comment count will be displayed.
 
