@@ -6,9 +6,10 @@ sidebar_position: 1
 
 1. Click **My portfolio**, and click **create new case**, adding title, basic information and case properties (including groups and tags).  (*To ensure data privacy, refraining from entering personally identifiable information (PII), including names and dates of birth, is strictly required*).
 
- ![New Case1](img/newcase1.png)
+ ![NewCase1](img/newcase001.png)
 
- ![New Case2](img/newcase2.png)
+
+ ![New Case2](img/newcase002.png)
 
 2. Click **+ Create case** and  your cases are created. You can always edit your case details by clicking **Edit case**. **Edit case** can upload document (not media), only for files such as pdf. and docx. 
  ![New Case3](img/newcase3.png)
