@@ -88,4 +88,4 @@ See an image here:
 
 and a video here:
 
-<video src={require('./video/penguin.mp4').default} controls></video>
+<video src={require('./video/penguin.mp4').default} controls width="500"></video>
