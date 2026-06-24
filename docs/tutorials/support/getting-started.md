@@ -105,7 +105,7 @@ There are three actions for admin to select - Send welcome email to the user, Ge
 ![support24](img/support24.png)
 
 ## Add tag
-Admin can add a new tag by enter name and description of tag, selecting group Then click **SAVE**.
+Admin can add a new tag by entering name and description of tag, selecting group Then click **SAVE**.
 
 ![tag1](img/tag1.png)
 ## Add user
