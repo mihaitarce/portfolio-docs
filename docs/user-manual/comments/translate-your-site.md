@@ -39,4 +39,8 @@ Enter comment, tick box (**Personal note** or **Post anonymously**) if necessary
 
 Students can view and check all comments and tags or mentions by clicking **Comment** at the top bar. The following notification will be displayed if someone comments on your post or tags you.
 
- ![New Case29](img/newcase29.png)
+![New Case29](img/newcase29.png)
+
+You may also add notes to the image. Not only adding texts, you can create a table.
+
+![notes](img/notes.png)
