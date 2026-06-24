@@ -17,7 +17,10 @@ sidebar_position: 1
 3. **Save changes** when you have finished the editing. (*Remember to save your changes frequently to avoid data loss in case of an emergency or system timeout*).
  ![New Case4](img/newcase4.png)
 
-## Share
+## Add tag
+Students can add tag to the case by selecting case and clicking edit case, selecting related tag and click **Save changes**.
+![[tag1.mp4]]
+## Share case
 Cases can be discussed and collaborated by clicking the **Share** button. They can be added to **discussion list** by entering briefing date and Tutor's username. Students can view, comment and share cases to other students so that students can learn from other cases. 
 
 <video src={require('./video/sharevideo1.mp4').default} controls></video>
