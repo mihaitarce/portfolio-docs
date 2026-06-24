@@ -104,6 +104,10 @@ You may also enter keywords in search engine or using filter (on the right hand 
 There are three actions for admin to select - Send welcome email to the user, Generate report and add assignment for students
 ![support24](img/support24.png)
 
+## Add tag
+Admin can add a new tag by enter name and description of tag, selecting group Then click **SAVE**.
+
+![[tag1.png]]
 ## Add user
 You can also add user by clicking the **Add User** button.
 
