@@ -107,7 +107,7 @@ There are three actions for admin to select - Send welcome email to the user, Ge
 ## Add tag
 Admin can add a new tag by enter name and description of tag, selecting group Then click **SAVE**.
 
-![[tag1.png]]
+![tag1](img/tag1.png)
 ## Add user
 You can also add user by clicking the **Add User** button.
 
