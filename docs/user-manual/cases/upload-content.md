@@ -38,7 +38,7 @@ Remember to click the checkmark icon button once you have finished editing.
 
 Students can also enter comment for personal note or comment anonymously. 
 
-![upload9](img/upload9.png)
+<video src={require('./video/commentvideo.mp4').default} controls></video>
 
 When new comments are added to the picture, a blue circle containing the total comment count will be displayed.
 
