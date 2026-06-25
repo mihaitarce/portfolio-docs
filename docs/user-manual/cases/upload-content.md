@@ -78,7 +78,9 @@ A **Visit updated successfully** notification will appear in the bottom-right co
 Once all photographs are uploaded, please select two key images to represent the case. Standard selections include the frontal clinical view and a panoramic radiograph, or 'before and after' frontal views for *finalized cases*. 
 
 These images will be displayed as thumbnails to streamline case and to ensure that all required primary and secondary case images are uploaded and properly selected in their respective summary sections. 
-![New Case21](img/newcase21.gif)
+
+<video src={require('./video/caseimages.mp4').default} controls></video>
+
 1. Click **Edit case** at the top right side of the case page
 2. Click **Select image** under the Case properties
 3. Selected images will be highlighted in blue. Click **Save changes** after two representative case images are selected. 
