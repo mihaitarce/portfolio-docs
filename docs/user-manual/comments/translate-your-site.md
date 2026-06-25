@@ -4,16 +4,9 @@ sidebar_position: 1
 
 # Introduction
 
-Some *more* text here...
-
-:::caution
-
-A warning here
-
-:::
+Students can leave comments or ask questions throughout the case or comment on a specific case section. Comment can be added openly or anonymously. You can also add personal notes for personal use only.
 
 ## Comment and mention functions
-Students can leave comments or ask questions throughout the case or comment on a specific case section. Comment can be added openly or anonymously. You can also add personal notes for personal use only.
 
 **For leaving overall feedback:**
 Bottom of the case page is the **Discussion** part. Students are able to enter comment (for personal notes or comment anonymously)
