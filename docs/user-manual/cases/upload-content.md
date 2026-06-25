@@ -36,6 +36,9 @@ Remember to click the checkmark icon button once you have finished editing.
 
 ![adddes1](img/adddes1.png)
 
+Students can also enter comment for personal note or comment anonymously. 
+
+![upload9](img/upload9.png)
 
 When new comments are added to the picture, a blue circle containing the total comment count will be displayed.
 
