@@ -37,9 +37,7 @@ If you identify a case as an outstanding learning example and wish to share it w
 2. Select cases that you wanted to be featured and click to view
 3. Click **Feature**, which located in the upper-right corner of the summary section. Click **Unfeature** to undo the featuring
 
-![Featuredt2.](img/Featuredt2.png)
-
-![Featuredt3.](img/Featuredt3.png)
+<video src={require('./video/Feature1.mp4').default} controls></video>
 
 4. Teachers can click **Featured** at the top bar of the page can view all featured cases.
 
