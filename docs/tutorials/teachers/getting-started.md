@@ -15,7 +15,7 @@ sidebar_position: 1
 
 Teachers can view lists that include cases that they have created, assigned cases to students and creating interactive cases for students learning from each others. Teachers can also edit cases, feature cases, share case by selecting related insightful cases.
 
-![Myportfolioteacher](img/Myportfolioteacher.png)
+![Myportfolioteacher](img/myportfolio1.png)
 
 ## Search
 Allows teachers to search cases. 
