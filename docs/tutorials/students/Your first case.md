@@ -26,6 +26,7 @@ Your portfolio will be based on cases you create.
 ![logbookstudent|477](img/logbookstudent.png)
 
 *If you have not signed the logbook, please click the Sign button on your homepage to complete your signature.*
+
 ![logbookstudents2](img/logbookstudents2.png)
 
 ## Featured
@@ -42,4 +43,5 @@ Students can view featured cases. Those cases represent outstanding work by othe
 
 ## Issues and Feedback
 Section (for both students and teachers) at the bottom of the website, you can send an email for any enquiries.
-![issue](img/issue.png)
+
+![issue](img/issue1.png)
