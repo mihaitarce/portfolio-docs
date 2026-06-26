@@ -28,4 +28,4 @@ To hide sections that are irrelevant to the case, click **Edit visit**, then tic
 
 Students can click **Edit case** to tick the **Complete** box when all contents has been added and revised. 
 
-![New Case20](img/newcase20.gif)
+<video src={require('./video/Complete.mp4').default} controls></video>
