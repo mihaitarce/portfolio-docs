@@ -111,6 +111,9 @@ Admin can add a new tag by entering name and description of tag, selecting group
 
 Admin can also change or edit the tag name, description and group by clicking the name of the tag list. Remember to click **Save** after you finish editing.
 
+To remove tag, select tag and move the tag from choose tags section to available tags section.
+
+![[tag2.png]]
 ## Add user
 You can also add user by clicking the **Add User** button.
 
