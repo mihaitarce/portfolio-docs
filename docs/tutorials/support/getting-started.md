@@ -113,7 +113,7 @@ Admin can also change or edit the tag name, description and group by clicking th
 
 To remove tag, select tag and move the tag from choose tags section to available tags section.
 
-![[tag2.png]]
+![tag2](img/tag2.png)
 ## Add user
 You can also add user by clicking the **Add User** button.
 
@@ -122,7 +122,7 @@ Admin can create user and password (accounts) for non-HKU user. User from non-HK
 *Reminder: All admin or support staff, has access only to the admin section of the site. Non-clinical staff cannot see clinical cases, for patient privacy reasons.*
 
 ![support25](img/support25.png)
-Fill in the details and click **SAVE**
+Fill in the details and click **SAVE**.
 ![support26](img/support26.png)
 
 
