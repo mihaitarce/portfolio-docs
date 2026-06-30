@@ -9,7 +9,8 @@ sidebar_position: 1
  ![NewCase1](img/newcase001.png)
 
 
- ![New Case2](img/newcase002.png)
+ ![newcasenew](img/newcasenew.png)
+
 
 2. Click **+ Create case** and  your cases are created. You can always edit your case details by clicking **Edit case**. **Edit case** can upload document (not media), only for files such as pdf. and docx. 
  ![New Case3](img/newcase3.png)

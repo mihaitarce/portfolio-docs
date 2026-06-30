@@ -77,7 +77,8 @@ A **Visit updated successfully** notification will appear in the bottom-right co
  ![upload](img/upload.png)
 
 
-### **Representative case images**: 
+### **Representative case images**
+
 Once all photographs are uploaded, please select two key images to represent the case. Standard selections include the frontal clinical view and a panoramic radiograph, or 'before and after' frontal views for *finalized cases*. 
 
 These images will be displayed as thumbnails to streamline case and to ensure that all required primary and secondary case images are uploaded and properly selected in their respective summary sections. 
