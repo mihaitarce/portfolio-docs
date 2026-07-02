@@ -1,10 +1,12 @@
 For your convenience, the queries have been listed to facilitate efficient navigation. We recommend reviewing these resources prior to contacting support, as many standard technical and account inquiries are addressed below.
 
 1. Media Upload Failures - Videos and Images
-Answer: Please try logging out and back (log out of your HKU portal on ALL devices, to ensure you are using the current version of the website). 
+
+Please try logging out and back (log out of your HKU portal on ALL devices, to ensure you are using the current version of the website). 
 
 2. Unable to show the images (such as black images were shown on page)
-Answer: Please take a screenshot of the page if it fails. 
+
+Please take a screenshot of the page if it fails. 
 
 *Should the upload failure persist, please capture a comprehensive screenshot of the resulting error message. Additionally, we kindly request that you document the exact timestamp of the failed attempt prior to submitting your formal support inquiry.*
 
