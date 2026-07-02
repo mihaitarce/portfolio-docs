@@ -40,6 +40,6 @@ Students can view featured cases. Those cases represent outstanding work by othe
 ## Experiential learning/ Trip reports 
 
 ## Issues and Feedback
-Section (for both students and teachers) at the bottom of the website, you can send an email for any enquiries.
+Section (for both students and teachers) at the bottom of the website, you can send an email for any enquiries. 
 
 ![issue](img/issue1.png)
