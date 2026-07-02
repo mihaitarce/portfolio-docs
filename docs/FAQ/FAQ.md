@@ -15,3 +15,4 @@ Please take a screenshot of the page if it fails.
 4. Finding specific case: visit search page, you can filter by enter case tags, select ‘Not empty’ cases to filter out the drafts that didn’t need to follow up on, and then sort the list by name. You can also filter by group or name by entering, e.g. 6.2, in the ‘Author details’ field.
 
 5. To obtain a PDF version of the case, click 'Print to PDF' in the browser. 
+
