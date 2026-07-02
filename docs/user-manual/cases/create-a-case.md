@@ -4,10 +4,10 @@ sidebar_position: 1
 
 # Create a new case
 
-1. Click **My portfolio**, and click **create new case**, adding title, basic information and case properties (including groups and tags).  (*To ensure data privacy, refraining from entering personally identifiable information (PII), including names and dates of birth, is strictly required*).
+1. Click **My portfolio**, and click **create new case**, adding title, basic information and case properties (including folders, groups and tags).  (*To ensure data privacy, refraining from entering personally identifiable information (PII), including names and dates of birth, is strictly required*).
 
  ![NewCase1](img/newcase001.png)
- ![newcasenew](img/newcasenew.png)
+ ![newcasenew1](img/newcasenew1.png)
 
 
 2. Click **+ Create case** and  your cases are created. You can always edit your case details by clicking **Edit case**. **Edit case** can upload document (not media), only for files such as pdf. and docx. 
@@ -43,4 +43,4 @@ You can also click **Collaborate**, enter and select name(s) of Collaborators an
 
 ## Create folder
 
-You can also create folder to categorize different cases.
+You can create folders to categorize various cases.
