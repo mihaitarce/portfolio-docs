@@ -43,4 +43,4 @@ You can also click **Collaborate**, enter and select name(s) of Collaborators an
 
 ## Create folder
 
-You can create folders to categorize various cases.
+You can create folders to categorize various cases. 

@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # Introduction
 
+Welcome to Portfolio, a place designed to streamline and elevate the educational experience. Built with modern classrooms in mind, Portfolio serves as a seamless bridge between educators and learners, transforming how academic assignments are managed, submitted, and evaluated.
+
 Let's discover **Portfolio**.
 
 ## Getting Started
