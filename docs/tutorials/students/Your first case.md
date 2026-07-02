@@ -1,8 +1,5 @@
 Your portfolio will be based on cases you create.
 
- ![student1|676](img/student1.gif)
-
----video--- (?)
 <video src={require('./video/video1.mp4').default} controls></video>
 
 1. You can [create a case](user-manual/cases/create-a-case.md) and enter the title and description.
@@ -10,6 +7,7 @@ Your portfolio will be based on cases you create.
 3.  [upload content](user-manual/cases/upload-content.md) in each visit.
 
 # Attendance and logbook
+
 - Logbook Sign (students are required to have their logbooks signed by teachers). 
 - Three type of symbols will be shown depends on status of completion of the logbook.
  ![logbook1](img/logbook1.png)
