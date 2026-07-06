@@ -16,6 +16,6 @@ Please take a screenshot of the page if it fails.
 
 5. To obtain a PDF version of the case, click 'Print to PDF' in the browser. 
 6. There are ‘grids’ that pop up randomly when sometimes I click into photos
-7. When we create a table inside a table, the lines of the table disappeared after we click ‘done edit’
+7. When we create a table inside a table, the lines of the table disappeared after we click 'done edit'
 
 
