@@ -36,7 +36,7 @@ Successfully added cases (cases shared to teacher) will be shown on the home pag
 
 You can also click **Collaborate**, enter and select name(s) of Collaborators and Click **Save changes**. Students can work or study together with others. Collaborators are able to add, change and delete content. 
 
-**Collaborate** mostly used when referring a case for a specific procedure (e.g., surgery) or when a case requires a multidisciplinary treatment approach.
+**Collaborate** mostly used when referring a case for a specific procedure (e.g., surgery) or when a case requires a multidisciplinary treatment approach. The function also applicable to students engaged in collaborative group assignments or group projects.
 
 ![Collaborate](img/Collaborate.png)
 
