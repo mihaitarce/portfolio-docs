@@ -1,9 +1,9 @@
 For your convenience, the queries have been listed to facilitate efficient navigation. We recommend reviewing these resources prior to contacting support, as many standard technical and account inquiries are addressed below.
 
-Q: Media Upload Failures - Videos and Images
+Q: Media Upload Failures - Videos and Images  
 A: Please try logging out and back (log out of your HKU portal on ALL devices, to ensure you are using the current version of the website). 
 
-Q: Unable to show the images (such as black images were shown on page)
+Q: Unable to show the images (such as black images were shown on page)  
 A: Please take a screenshot of the page and send them to us if it fails. 
 
 Q:  Some 'grids' that pop up randomly when sometimes I click into photos
