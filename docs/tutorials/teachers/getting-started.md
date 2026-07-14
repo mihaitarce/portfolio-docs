@@ -56,7 +56,7 @@ Allow teacher create and customize their own template according the needs, addin
 
 ![templates1](img/templates1.png)
 
-3. Click bin icon to delete sections that you don't need.
+3. Click bin icon to delete sections that you don't need to add.
 
 ![templatedel](img/templatedel.gif)
 
