@@ -101,8 +101,8 @@ You may also enter keywords in search engine or using filter (on the right hand 
 
 
 
-There are three actions for admin to select - Send welcome email to the user, Generate report and add assignment for students
-![support24](img/support24.png)
+There are four actions for admin to select - Deactivate selected users, Send welcome email to the user, Generate report and add assignment for students
+![userfunction](img/userfunction.png)
 
 ## Add tag
 Admin can add a new tag by entering name and description of tag, selecting group Then click **SAVE**.
