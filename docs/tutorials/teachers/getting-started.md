@@ -13,7 +13,8 @@ sidebar_position: 1
 
 ## My portfolio
 
-Teachers can view lists that include cases that they have created, assigned cases to students and creating interactive cases for students learning from each others. Teachers can also edit cases, feature cases, share case by selecting related insightful cases.
+Teachers can view lists that include cases that they have created, assigned cases to students and creating interactive cases for students learning from each others.   
+Teachers can also edit cases, feature cases, share case by selecting related insightful cases.
 
 ![newmyportfolio](img/newmyportfolio.png)
 
