@@ -41,6 +41,9 @@ You can also click **Collaborate**, enter and select name(s) of Collaborators an
 ![Collaborate](img/Collaborate.png)
 
 
-## Create folder
+## Create folder and add cases into the folder
 
 You can create folders to categorize various cases. 
+Alternatively, you can categorize cases by dragging them directly into the corresponding folders.
+
+<video src={require('./video/foldervideo.mp4').default} controls></video>
