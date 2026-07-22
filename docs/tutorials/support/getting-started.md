@@ -40,6 +40,9 @@ Once you enter the Login page, the **Admin** section will be shown on the page, 
 
 ![support8](img/support8.png)
 
+*Assignment: which admin (including other divisions) create for students’ submissions (with Submission due date, Grade due date, etc.)*
+
+*Assignments (cases): an interface for editing information (examiner, due date, etc.) if necessary.*
 
 - Case
 Click **Cases** or **Change** can view and edit cases.
@@ -104,7 +107,7 @@ You may also enter keywords in search engine or using filter (on the right hand 
 There are four actions for admin to select - Deactivate selected users, Send welcome email to the user, Generate report and add assignment for students
 ![userfunction](img/userfunction.png)
 
-## Add tag
+## Add tag (to be confirmed)
 Admin can add a new tag by entering name and description of tag, selecting group Then click **SAVE**.
 
 ![tag1](img/tag1.png)
