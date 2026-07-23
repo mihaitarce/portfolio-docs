@@ -35,6 +35,13 @@ Students can view featured cases. Those cases represent outstanding work by othe
 1. Click **Featured** on the top left bar or **See featured cases** on home page 
 2. Select cases to view
 
+## Submit assignments 
+
+Upon logging into the website, students will receive a notification prompting them to grade the submitted assignments.
+
+Students can submit their cases before the due date and the submitted case will be locked till the grading process is finished. 
+
+Students need to click 'complete' when the result is out. They can view their results online when the results is out. 
 ## Forum (wiki?)
 
 ## Experiential learning/ Trip reports 

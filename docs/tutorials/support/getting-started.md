@@ -106,7 +106,7 @@ You may also enter keywords in search engine or using filter (on the right hand 
 
 There are four actions for admin to select - Deactivate selected users, Send welcome email to the user, Generate report and add assignment for students
 ![userfunction](img/userfunction.png)
-
+*Admin can’t add cases to assignment (to be confirmed)*
 ## Add tag (to be confirmed)
 Admin can add a new tag by entering name and description of tag, selecting group Then click **SAVE**.
 
