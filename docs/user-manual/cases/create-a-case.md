@@ -58,3 +58,5 @@ You can edit name of the folder by clicking the edit button. Remember to click s
 You can also delete the folder by clicking delete button (All cases will be moved to the home folder once you deleted it), remember to click confirm if you want to delete the folder.
 
 ![folder](img/folderdelete.png)
+
+When editing a case, you can assign it to a folder by selecting the designated folder and clicking 'Save Changes'.
