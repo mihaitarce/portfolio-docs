@@ -59,4 +59,4 @@ You can also delete the folder by clicking delete button (All cases will be move
 
 ![folder](img/folderdelete.png)
 
-When editing a case, you can assign it to a folder by selecting the designated folder and clicking 'Save Changes'.
+When editing a case, you can assign it to a folder by selecting the designated folder and clicking 'Save Changes'. Remove the case from the folder by selecting ------- while editing the case.
