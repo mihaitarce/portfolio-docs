@@ -115,4 +115,10 @@ The **Timeline** section visualizes the trial's lifecycle. It tracks major miles
 Baseline, Intervention and Review. 
 
 *Check this section regularly to ensure your site is pacing correctly to meet upcoming administrative or recruitment deadlines.* 
+
+Subject Statuses:
+* **In Progress:** Participants who have successfully passed screening, are currently enrolled, and are actively receiving the intervention or being monitored.
+* **Completed:** Participants who have successfully finished the entire trial protocol, including all required follow-up visits.
+* **Dropouts:** Participants who have withdrawn consent, were lost to follow-up, or were removed from the study due to adverse events or non-compliance.
+* **Remaining:** The number of open slots left to hit the target enrollment goal.
 ## Report
