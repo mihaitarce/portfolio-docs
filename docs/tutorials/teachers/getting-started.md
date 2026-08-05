@@ -110,4 +110,9 @@ These sections provide the foundational information for the clinical trial.
 Accurate screening is critical. These sections outline the strict parameters for patient enrollment:
 - Inclusion Criteria: A comprehensive list of the conditions, demographics, and medical histories a patient *must* possess to be safely and legally enrolled in the study.
 - Exclusion Criteria: A list of factors or underlying conditions that disqualify a patient from participating. Always cross-reference potential candidates against this list to ensure patient safety and data integrity.
+
+The **Timeline** section visualizes the trial's lifecycle. It tracks major milestones such as:
+Baseline, Intervention and Review. 
+
+*Check this section regularly to ensure your site is pacing correctly to meet upcoming administrative or recruitment deadlines.* 
 ## Report
