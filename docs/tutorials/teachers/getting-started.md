@@ -122,7 +122,7 @@ Subject Statuses:
 * **Dropouts:** Participants who have withdrawn consent, were lost to follow-up, or were removed from the study due to adverse events or non-compliance.
 * **Remaining:** The number of open slots left to hit the target enrollment goal.
 
-Individual Subject Status (Detailed View):
+Individual Subject Status (Detailed View), can add by clicking 'add subject', also can update visit or schedule details of the subject (patient):
 
 This section provides a granular view of each participant's journey through the trial protocol, tracking their specific data and visit schedules.
 
