@@ -24,6 +24,9 @@ Enter comment, tick box (**Personal note** or **Post anonymously**) if necessary
 
 ![newcase31](img/newcase31.png)
 
+<video src={require('./video/commentvideo.mp4').default} controls></video>
+
+
 (Not sure for students account) For tagging users in comment:
 1. Type "@" followed by the name
 2. Click the name in highlighted blue
