@@ -12,7 +12,7 @@ Students can leave comments or ask questions throughout the case or comment on a
 Bottom of the case page is the **Discussion** part. Students are able to enter comment (for personal notes or comment anonymously)
  ![New Case24](img/newcase24.png)
 
-Enter comment, tick box (**Personal note** or **Post anonymously**) if necessary and Click send icon.
+Tick box (**Personal note** or **Post anonymously**) if necessary and Click send icon to send a comment.
 
  ![New Case25](img/newcase25.png)
 
