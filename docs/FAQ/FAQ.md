@@ -7,7 +7,7 @@ Q: Unable to show the images (such as black images were shown on page)
 A: Please take a screenshot of the page and send them to us if it fails. 
 
 Q:  Some 'grids' that pop up randomly when sometimes I click into photos  (on ipad)
-A: 
+A: Please try logging out and back (log out of your HKU portal on ALL devices, to ensure you are using the current version of the website). 
 
 Q: When I create a table inside a table, the lines of the table disappeared after we click 'done edit' / Cannot create a table in table  
 A:
