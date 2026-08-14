@@ -108,6 +108,8 @@ There are four actions for admin to select - Deactivate selected users, Send wel
 ![userfunction](img/userfunction.png)
 Function of 'Deactivate selected users' is a function for admin to deactivate user (students) who have graduated / staff which are no longer employed at HKU.
 
+'Welcome email' - for accounts that get created manually (not having an HKU login).
+
 *Admin can’t add cases to assignment (to be confirmed)*
 ## Add tag (to be confirmed)
 Admin can add a new tag by entering name and description of tag, selecting group Then click **SAVE**.
