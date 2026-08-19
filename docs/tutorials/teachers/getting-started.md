@@ -22,6 +22,7 @@ Teachers can also edit cases, feature cases, share case by selecting related ins
 Allows teachers to search cases. 
  
 1. Click **Search** on the left top bar or **Search all cases** on the home page
+![search](img/search.png)
 2. All cases will be shown on the page. Search bar on the left-hand side of the page (can also type title details on the right hand side search corner) on the right hand side) can help teachers to filter the cases. 
 
 Conditions (Tags, status, empty cases, author details and sort by) are provided for filtering cases.

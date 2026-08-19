@@ -4,8 +4,6 @@ sidebar_position: 1
 
 # Getting started
 
-Admins manage Users, cases and assignments related tasks. 
-They are available to select user to view. also available to select case to change.
 
 ![support1](img/support1.png)
 
