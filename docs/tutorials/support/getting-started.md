@@ -54,7 +54,7 @@ Click **SAVE** or **Save and continue editing** to save changes.
 
 There are three actions for admin to select - Lock cases, share cases and assign the case to teachers or tutor for assessment. Select the case (check the box) and Click **Run** to continue.
 
-For lock and unlocking the case:
+For lock and unlock the case:
 1. Check the box of the related case and Select **lock selected cases** and click **Run**
 
 ![support17](img/support17.png)
@@ -108,7 +108,8 @@ Function of 'Deactivate selected users' is a function for admin to deactivate us
 
 'Welcome email' - for accounts that get created manually (not having an HKU login).
 
-*Admin can’t add cases to assignment (to be confirmed)*
+*Notes: Admin can’t add cases to assignment; only students can do it.
+Admin creates assignment, then adds case quota for student’s submissions.*
 ## Add tag (to be confirmed)
 Admin can add a new tag by entering name and description of tag, selecting group Then click **SAVE**.
 

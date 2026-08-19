@@ -9,8 +9,6 @@ A: Please take a screenshot of the page and send them to us if it fails.
 Q:  Some 'grids' that pop up randomly when sometimes I click into photos  (on ipad)
 A: Please try logging out and back (log out of your HKU portal on ALL devices, to ensure you are using the current version of the website). 
 
-Q: When I create a table inside a table, the lines of the table disappeared after we click 'done edit' / Cannot create a table in table  
-A:
 
 *Should the upload failure persist, please capture a comprehensive screenshot of the resulting error message. Additionally, we kindly request that you document the exact timestamp of the failed attempt prior to submitting your formal support inquiry.*
 
