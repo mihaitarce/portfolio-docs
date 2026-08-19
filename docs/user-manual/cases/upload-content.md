@@ -90,13 +90,3 @@ These images will be displayed as thumbnails to streamline case and to ensure th
 2. Click **Select image** under the Case properties
 3. Selected images will be highlighted in blue. Click **Save changes** after two representative case images are selected. 
 
-
-
---test--
-See an image here:
-
-![Locale Dropdown](img/localeDropdown.png)
-
-and a video here:
-
-<video src={require('./video/penguin.mp4').default} controls width="500"></video>
