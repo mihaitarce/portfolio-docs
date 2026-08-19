@@ -102,41 +102,5 @@ Attendance (on the top left bar or home page)
 ![logbookt3](img/logbookt3.png)
 
 ## Trials (Clinical trials) (to be updated)
-Trial is designed to provide a centralized, up-to-date view of our clinical study's parameters, progress, and participant tracking.
 
-Overview & Description
-These sections provide the foundational information for the clinical trial.
-
-Accurate screening is critical. These sections outline the strict parameters for patient enrollment:
-- Inclusion Criteria: A comprehensive list of the conditions, demographics, and medical histories a patient *must* possess to be safely and legally enrolled in the study.
-- Exclusion Criteria: A list of factors or underlying conditions that disqualify a patient from participating. Always cross-reference potential candidates against this list to ensure patient safety and data integrity.
-
-The **Timeline** section visualizes the trial's lifecycle. It tracks major milestones such as:
-Baseline, Intervention and Review. 
-
-*Check this section regularly to ensure your site is pacing correctly to meet upcoming administrative or recruitment deadlines.* 
-
-Subject Statuses:
-* **In Progress:** Participants who have successfully passed screening, are currently enrolled, and are actively receiving the intervention or being monitored.
-* **Completed:** Participants who have successfully finished the entire trial protocol, including all required follow-up visits.
-* **Dropouts:** Participants who have withdrawn consent, were lost to follow-up, or were removed from the study due to adverse events or non-compliance.
-* **Remaining:** The number of open slots left to hit the target enrollment goal.
-
-Individual Subject Status (Detailed View), can add by clicking 'add subject', also can update visit or schedule details of the subject (patient):
-
-This section provides a granular view of each participant's journey through the trial protocol, tracking their specific data and visit schedules.
-
-Identifier: The unique, de-identified subject number assigned to the patient (e.g., `333211`).
-
-Group: The specific study arm or cohort the patient is randomized into (e.g., Group `3`).
-
-Documents: The status of required trial documentation, such as the signed Informed Consent Form (ICF) or medical history records.
-
-Baseline: The patient's initial visit and assessment prior to starting the trial. A dash (`-`) indicates the step is pending or data has not yet been entered.
-
-Intervention: The active treatment or procedure phase of the trial.
-
-Review (+14d ±2): A scheduled follow-up visit. The "+14d ±2" indicates the protocol window: this visit must occur exactly 14 days after the intervention, with a 2-day grace period (allowable window) before or after.
-
-Test: The status of specific lab results, imaging, or required assessments (e.g., Test `Test -`).
 ## Report
