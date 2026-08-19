@@ -33,7 +33,7 @@ Conditions (Tags, status, empty cases, author details and sort by) are provided 
 If you identify a case as an outstanding learning example and wish to share it with the student body, you may choose to feature it. Please ensure that all student and patient data is completely anonymized before publication.
 
 1. Click **Search** on the left top bar or **Search all cases** on the home page
-![Featuredt1.](img/Featuredt1.png)
+![search](img/search.png)
 
 2. Select cases that you wanted to be featured and click to view
 3. Click **Feature**, which located in the upper-right corner of the summary section. Click **Unfeature** to undo the featuring
@@ -42,8 +42,7 @@ If you identify a case as an outstanding learning example and wish to share it w
 
 4. Teachers can click **Featured** at the top bar of the page can view all featured cases.
 
-![Featuredt4.](img/Featuredt4.png)
-
+![Featurednew](img/Featurednew.png)
 
 ## Templates
 Allow teacher create and customize their own template according the needs, adding sections for students to upload different types of files. 
