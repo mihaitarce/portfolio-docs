@@ -39,7 +39,7 @@ Students can view featured cases. Those cases represent outstanding work by othe
 
 Upon logging into the website, students will receive a notification prompting them to grade the submitted assignments.
 
-![[assignments](img/assignments.png)
+![assignments](img/assignments.png)
 
 Students can submit their cases before the due date. 
 Submitted case will be locked till the grading process is finished. 
