@@ -104,9 +104,8 @@ You may also enter keywords in search engine or using filter (on the right hand 
 
 There are four actions for admin to select - Deactivate selected users, Send welcome email to the user, Generate report and add assignment for students
 ![userfunction](img/userfunction.png)
-Function of 'Deactivate selected users' is a function for admin to deactivate user (students) who have graduated / staff which are no longer employed at HKU.
-
-'Welcome email' - for accounts that get created manually (not having an HKU login).
+- Function of 'Deactivate selected users' is a function for admin to deactivate user (students) who have graduated / staff which are no longer employed at HKU.
+- 'Welcome email' function is for accounts that get created manually (not having an HKU login).
 
 *Notes: Admin can’t add cases to assignment; only students can do it.
 Admin creates assignment, then adds case quota for student’s submissions.*
