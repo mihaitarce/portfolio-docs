@@ -27,9 +27,9 @@ Allows teachers to search cases.
 
 Conditions (Tags, status, empty cases, author details and sort by) are provided for filtering cases.
 
+![newteachersearch](img/newteachersearch.png)
 
-![searchteacher](img/searchteacher.png)
-
+*Notes: empty cases are cases without any content; they are currently usually created because in order to get a log book entry for an activity, it must be linked to a case.*
 ## Featured
 If you identify a case as an outstanding learning example and wish to share it with the student body, you may choose to feature it. Please ensure that all student and patient data is completely anonymized before publication.
 
