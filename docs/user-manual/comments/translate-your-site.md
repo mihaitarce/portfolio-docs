@@ -37,7 +37,3 @@ Students can view and check all comments and tags or mentions by clicking **Comm
 
 ![New Case29](img/newcase29.png)
 
-### Add notes
-You may also add notes to the image. Not only adding texts, you can create a table.
-
-![notes](img/notes.png)

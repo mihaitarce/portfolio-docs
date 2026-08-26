@@ -26,7 +26,10 @@ An image editing panel will appear once the file has been successfully uploaded.
 Click **Done editing** to save changes.
 ![upload002](img/upload002.png)
 
+### Add notes
+You may also add notes to the image. Not only adding texts, you can create a table.
 
+![notes](img/notes.png)
 ## Add description and comment
 Students can add description and comments of images by just clicking the uploaded image. Click the pencil icon button on the upper righthand side of the page then you are free to enter texts.
 
@@ -89,4 +92,5 @@ These images will be displayed as thumbnails to streamline case and to ensure th
 1. Click **Edit case** at the top right side of the case page
 2. Click **Select image** under the Case properties
 3. Selected images will be highlighted in blue. Click **Save changes** after two representative case images are selected. 
+
 
