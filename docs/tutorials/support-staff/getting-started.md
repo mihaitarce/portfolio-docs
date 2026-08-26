@@ -5,7 +5,6 @@ sidebar_position: 1
 # Getting started
 
 
-![support1](support1.png)
 
 ## Attendance
 
@@ -130,14 +129,6 @@ Admin can create user and password (accounts) for non-HKU user. User from non-HK
 Fill in the details and click **SAVE**.
 ![support26](support26.png)
 
-
-Click **CHANGE PASSWORD** if you wanted to change your current password. 
-
-![support27](support27.png)
-
-
-Enter your old, new and confirmation password then Click **CHANGE MY PASSWORD**.
-![support28](support28.png)
 
 Click **VIEW SITE** at the upper right corner can back to the home page.
 

@@ -8,6 +8,7 @@ Students can view list of cases that they have created and create new case by fi
 2. Create visits for your case.
 3.  [upload content](user-manual/cases/upload-content.md) in each visit.
 
+Video
 # Attendance and logbook
 
 - Logbook Sign (students are required to have their logbooks signed by teachers). 
@@ -50,8 +51,6 @@ Students need to click 'complete' when the result is out. They can view their re
 
 *Always remember to redact patient personal information, such as case numbers and names.*
 ## Forum 
-
-## Experiential learning/ Trip reports 
 
 ## Issues and Feedback
 Section (for both students and teachers) at the bottom of the website, you can send an email for any enquiries. 
