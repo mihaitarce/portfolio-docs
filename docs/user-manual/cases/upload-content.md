@@ -30,7 +30,7 @@ Click **Done editing** to save changes.
 You may also add notes to the image. Not only adding texts, you can create a table.
 
 ![notes](img/notes.png)
-## Add description and comment
+### Add description and comment
 Students can add description and comments of images by just clicking the uploaded image. Click the pencil icon button on the upper righthand side of the page then you are free to enter texts.
 
 ![adddes](img/adddes.png)
@@ -49,6 +49,7 @@ When new comments are added to the picture, a blue circle containing the total c
 
 Students can also upload different types of media such as ply. file (with 3D viewer to view after students have finish uploading), dcm. file (DICOM), jpg. file. students can add comment on each section (right hand side), comments can be edited, deleted and resolved. 
 
+### Uploading 3D Model
 For 3D model (AR), students can view and take screenshot of the glb. file and edit it (Orient, Crop, Adjust Brightness and Contrast, different markers for highlighting important findings) by using image editing panel. 
 
 ![upload5](img/upload5.png)
