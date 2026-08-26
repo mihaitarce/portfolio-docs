@@ -62,8 +62,6 @@ For lock and unlock the case:
 ![support18](./img/support18.png)
 
 Admin can unlock the case by clicking the title of the case list (select cases), unticking the **Locked** box then click **Save**. "The case 'name' was changed successfully" will be shown on the page once you successfully saved changes (or unlocked the case).
-![support19](support19.gif)
-
 
 Admin can share cases to other user.
 1. Check the box of the related case and Select **Share selected cases** then click **Run**
