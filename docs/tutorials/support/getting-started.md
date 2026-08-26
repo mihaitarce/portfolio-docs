@@ -9,7 +9,7 @@ sidebar_position: 1
 
 Click **Attendance**, Type Tutor's name and select the name and clinic, enter date, session and student group then Click **Next**.
 
-![support2](support/img/support2.png)
+![support2](./img/support2.png)
 
 Select students and click **Save**.
 ![support3](support3.png)
