@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Getting started
 
-
+![support1](support1.png)
 
 ## Attendance
 
