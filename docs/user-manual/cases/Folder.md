@@ -1,11 +1,16 @@
-## Create, edit & add cases to folder
+## Create folder
 
 *NOTES: Folders only appear once a number of cases has been reached.*
 
-You can create folders to categorize various cases. Alternatively, you can categorize cases by dragging them directly into the corresponding folders.
+You can create folders to categorize various cases. 
+<video src={require('./video/foldercreatewsub.mp4').default} controls></video>
+
+## Add cases into folder
+You can categorize cases by dragging them directly into the corresponding folders.
 
 <video src={require('./video/foldervideo.mp4').default} controls></video>
 
+## Edit name of the folder
 You can edit name of the folder by clicking the edit button. Remember to click save if you have finished the editing.
 
 ![folder](img/folder.png)
@@ -17,6 +22,8 @@ You can also delete the folder by clicking delete button (All cases will be move
 
 ![folder](img/folderdelete.png)
 
+
+## Assign cases into folder via edit case
 
 <video src={require('./video/folderwsub.mp4').default} controls></video>
 
