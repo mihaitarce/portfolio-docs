@@ -1,7 +1,8 @@
-## Create, edit folder and add cases into the folder
+## Create, edit & add cases to folder
 
-You can create folders to categorize various cases. 
-Alternatively, you can categorize cases by dragging them directly into the corresponding folders.
+*NOTES: Folders only appear once a number of cases has been reached.*
+
+You can create folders to categorize various cases. Alternatively, you can categorize cases by dragging them directly into the corresponding folders.
 
 <video src={require('./video/foldervideo.mp4').default} controls></video>
 
