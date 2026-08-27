@@ -45,24 +45,6 @@ If you identify a case as an outstanding learning example and wish to share it w
 
 ![Featurednew](img/Featurednew.png)
 
-## Templates
-Allow teacher create and customize their own template according the needs, adding sections for students to upload different types of files. 
-
-
-1. Click **Templates** and enter **Title** and **Description**, select **Group**, click **Create**
-
-![templates](img/templates.png)
-
-2. You will see **Edit template** and **Sections** after clicking **Create**. Teachers can add sections (enter title and click save changes will find **Add item**, choose type and enter title then save changes)
-
-![templates1](img/templates1.png)
-
-3. Click the bin icon to delete sections that you don't need. 
-
-![templatedel](img/templatedel.gif)
-
-4. Click **Go Back** (remember to Click **Save Changes** first)
-
 ## Briefing cases
 Cases scheduled for today will be shown and can be viewed by clicking the title.
 
@@ -100,7 +82,3 @@ Cases scheduled for today will be shown and can be viewed by clicking the title.
 2. Select Clinic, AM/PM session, Procedure, Comments, Grade and sign (Students should input comments before the logbook signed. Contents of the logbook cannot be edited once it gets signed by the teachers/tutors) then click **Save**
 
 ![logbookt3](img/logbookt3.png)
-
-## Trials (Clinical trials) (to be updated)
-
-## Report
