@@ -30,13 +30,6 @@ Video
 
 ![logbookstudents2](img/logbookstudents2.png)
 
-## Featured
-Students can view featured cases. Those cases represent outstanding work by other students. These may be used for reference and educational purposes to assist you in developing your own case studies.
-
-<video src={require('./video/Featuredwsubt.mp4').default} controls></video>
-
-1. Click **Featured** on the top left bar or **See featured cases** on home page 
-2. Select cases to view
 
 ## Submit assignments 
 
@@ -50,7 +43,6 @@ Submitted case will be locked till the grading process is finished.
 Students need to click 'complete' when the result is out. They can view their results online when the results is out. 
 
 *Always remember to redact patient personal information, such as case numbers and names.*
-## Forum 
 
 ## Issues and Feedback
 Section (for both students and teachers) at the bottom of the website, you can send an email for any enquiries. 
