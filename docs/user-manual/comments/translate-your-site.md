@@ -27,7 +27,7 @@ Tick box (**Personal note** or **Post anonymously**) if necessary and Click send
 <video src={require('./video/commentvideo.mp4').default} controls></video>
 
 
-(Not sure for students account) For tagging users in comment:
+For tagging users in comment:
 1. Type "@" followed by the name
 2. Click the name in highlighted blue
 3. Enter messages and click send icon
