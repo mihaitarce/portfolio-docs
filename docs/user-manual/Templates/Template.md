@@ -3,14 +3,14 @@ Allow teacher create and customize their own template according the needs, addin
 
 1. Click **Templates** and enter **Title** and **Description**, select **Group**, click **Create**
 
-![templates](templates.png)
+![templates](./img/templates.png)
 
 2. You will see **Edit template** and **Sections** after clicking **Create**. Teachers can add sections (enter title and click save changes will find **Add item**, choose type and enter title then save changes)
 
-![templates1](templates1.png)
+![templates1](./img/templates1.png)
 
 3. Click the bin icon to delete sections that you don't need. 
 
-![templatedel](templatedel.gif)
+![templatedel](./img/templatedel.gif)
 
 4. Click **Go Back** (remember to Click **Save Changes** first)
