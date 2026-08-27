@@ -19,4 +19,8 @@ A: Please try logging out and back (log out of your HKU portal on ALL devices, t
 - To obtain a PDF version of the case, click 'Print to PDF' in the browser. 
 
 
+### MFA (outside HKU login/non HKU user)
+
+1. Scan Qr-code (user have to login the website on the phone and have saved password first).
+2. Confirm your identity by entering a temporary 6-digit code sent to your mobile phone or approving a notification on your device.
 

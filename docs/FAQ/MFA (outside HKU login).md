@@ -1,3 +1,0 @@
-
-1. Scan Qr-code (user have to login the website on the phone and have saved password first).
-2. Confirm your identity by entering a temporary 6-digit code sent to your mobile phone or approving a notification on your device.
