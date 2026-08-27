@@ -17,12 +17,6 @@ Create an account or use your institution login to log in for the [first time](t
 
 *For non-HKU staff, Your username and password will be created or assigned by administrator.
 You may click **Forgot password?** to set a new password.*
-
-## MFA (outside HKU login)
-
-Scan Qr-code (user have to login the website on the phone and have saved password first).
-
-Confirm your identity by entering a temporary 6-digit code sent to your mobile phone or approving a notification on your device.
 ## Cases
 
 See how to [create a case](user-manual/cases/create-a-case.md) or [upload content](user-manual/cases/upload-content.md).
