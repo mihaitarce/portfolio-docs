@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 Click **+ New visit** once your case is created. (*also applicable when adding a visit to an existing case*)
  ![New Case5](img/newcase5.png)
 
