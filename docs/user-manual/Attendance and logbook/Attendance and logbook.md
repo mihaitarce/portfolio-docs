@@ -3,6 +3,9 @@
 - Three type of symbols will be shown depends on status of completion of the logbook.
 ![logbook1](./img/logbook1.png)
 
+![[user-manual/Attendance and logbook/img/logbookstudent.png]]
+![logbook1](./img/logbookstudent.png)
+
 
 1. Click **Logbook** (next to your submitted case which highlighted in blue under **Briefing cases**. Students have attended will be shown below with details such as date, username of the tutor and the clinic. Once your attendance has been recorded, the session will appear highlighted in blue. 
 
