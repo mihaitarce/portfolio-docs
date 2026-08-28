@@ -1,8 +1,7 @@
-Upon logging into the website, students will receive a notification prompting them to submit the submitted assignments.
+Upon logging into the website, students will receive a notification prompting them to submit assignments.
 
-![assignments](img/assignments.png)
 
-<video src={require('./video/studentsubmitassignments.mp4').default} controls></video>
+<video src={require('./video/nstudentsubmitassignments.mp4').default} controls></video>
 
 1. Click 'Select case'
 2. Select case, click 'submit' and the 'ok' button to confirm your submission.
