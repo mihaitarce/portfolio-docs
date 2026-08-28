@@ -10,6 +10,7 @@ Upon logging into the website, students will receive a notification prompting th
 Students can submit their cases before the due date. 
 Notes: The submitted case will be locked till the grading process is finished. 
 
+### Check your grade
 They can view their results online when the results is out. 
 
 <video src={require('./video/viewgrade.mp4').default} controls></video>
