@@ -3,11 +3,12 @@
 - Three type of symbols will be shown depends on status of completion of the logbook.
 ![logbook1](./img/logbook1.png)
 
-![[user-manual/Attendance and logbook/img/logbookstudent.png]]
 ![logbook1](./img/logbookstudent.png)
 
 
-1. Click **Logbook** (next to your submitted case which highlighted in blue under **Briefing cases**. Students have attended will be shown below with details such as date, username of the tutor and the clinic. Once your attendance has been recorded, the session will appear highlighted in blue. 
+<video src={require('./video/logbookwsub.mp4').default} controls></video>
+
+1. Click **Sign**. Students have attended will be shown below with details such as date, username of the tutor and the clinic (entered by teachers). Once your attendance has been recorded, the session will appear highlighted in blue. 
 
 2. Select Clinic, AM/PM session, Procedure, Comments, ask teachers or tutor to fill in comments and sign (This section can also be completed on the tutor’s account, except for the comment and signature parts, which must be handled separately)
 
