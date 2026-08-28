@@ -1,4 +1,4 @@
-Upon logging into the website, students will receive a notification prompting them to grade the submitted assignments.
+Upon logging into the website, students will receive a notification prompting them to submit the submitted assignments.
 
 ![assignments](img/assignments.png)
 
