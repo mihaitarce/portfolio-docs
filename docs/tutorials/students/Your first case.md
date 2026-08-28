@@ -23,7 +23,6 @@ Video
 
 3. Students also need to sign the logbook (can also comment) then Click **Save**.
 
-![logbookstudent|477](tutorials/students/img/logbookstudent.png)
 
 *If you have not signed the logbook, please click the Sign button on your homepage to complete your signature.*
 
