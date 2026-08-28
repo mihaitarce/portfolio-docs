@@ -8,27 +8,6 @@ Students can view list of cases that they have created and create new case by fi
 2. Create visits for your case.
 3.  [upload content](user-manual/cases/upload-content.md) in each visit.
 
-Video
-# Attendance and logbook
-
-- Logbook Sign (students are required to have their logbooks signed by teachers). 
-- Three type of symbols will be shown depends on status of completion of the logbook.
-
-1. Click **Logbook** (next to your submitted case which highlighted in blue under **Briefing cases**. Students have attended will be shown below with details such as date, username of the tutor and the clinic. Once your attendance has been recorded, the session will appear highlighted in blue. 
-  ![logbook2|673](img/logbook2.png)
-
-2. Select case, Clinic, AM/PM session, Procedure, Comments, ask teachers or tutor to fill in comments and sign (This section can also be completed on the tutor’s account, except for the comment and signature parts, which must be handled separately)
-
-
-
-![logbookstudents|477](img/logbookstudents.png)
-
-3. Students also need to sign the logbook (can also comment) then Click **Save**.
-
-
-*If you have not signed the logbook, please click the Sign button on your homepage to complete your signature.*
-
-![logbookstudents2](img/logbookstudents2.png)
 
 
 ## Issues and Feedback
