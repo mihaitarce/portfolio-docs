@@ -81,6 +81,10 @@ Cases scheduled for today will be shown and can be viewed by clicking the title.
 
 2. Select Case, Clinic, AM/PM session, Procedure, Comments, Grade and sign (Students should input comments before the logbook signed. Contents of the logbook cannot be edited once it gets signed by the teachers/tutors) then click **Save**
 
-![logbookt3](img/logbookt1case.png)
+![logbookt1case](img/logbookt1case.png)
 
-![logbookt3](img/logbookt3.png)
+![logbookt2case](img/logbookt2case.png)
+
+3. 'Signed' will be shown on the page once the logbook has been signed successfully.
+
+![logbookt3case](img/logbookt3case.png)
