@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 Your portfolio will be based on cases you create.
 
 Students can view list of cases that they have created and create new case by first clicking 'My portfolio'. 
