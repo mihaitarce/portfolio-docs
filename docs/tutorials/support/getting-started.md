@@ -105,7 +105,7 @@ There are four actions for admin to select - Deactivate selected users, Send wel
 
 *Notes: Admin can’t add cases to assignment; only students can do it.
 Admin creates assignment, then adds case quota for student’s submissions.*
-## Add tag (to be confirmed)
+## Add tag
 Admin can add a new tag by entering name and description of tag, selecting group Then click **SAVE**.
 
 ![tag1](./img/tag1.png)
@@ -125,6 +125,3 @@ Admin can create user and password (accounts) for non-HKU user. User from non-HK
 ![support25](./img/support25.png)
 Fill in the details and click **SAVE**.
 ![support26](./img/support26.png)
-
-
-Click **VIEW SITE** at the upper right corner can back to the home page.

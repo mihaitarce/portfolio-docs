@@ -50,7 +50,7 @@ Cases scheduled for today will be shown and can be viewed by clicking the title.
 
 ![Briefingcasest](img/Briefingcasest.png)
 
-## Attendance (on the top left bar or home page)
+## Attendance
 1. Click **Take attendance** 
 ![Attendancet](img/Attendancet.png)
 
